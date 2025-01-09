@@ -1,3 +1,5 @@
+![Barcelona traffic incidents heatmap](newplot.png)
+
 # Accidents de tràfic a Barcelona, anàlisi de les dades
 
 Aquest projecte ofereix una analisi exhaustiva de les dades recollides per la Guardia Urbana de Barcelona relatives a accidents de tràfic durant l'any 2023, i publicades a [Open Data BCN](https://opendata-ajuntament.barcelona.cat/en).
