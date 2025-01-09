@@ -27,7 +27,7 @@ El projecte està realitzat en un jupyter notebook i s'estructura en diferents s
 -   Persones implicades, conductor, passatger, vianant
 -   Atropellaments
 
-## Objectius
+## Objectius
 
 Realitzar una anàlisi de les dades per extreure coneixement que ens permeti:
 
